@@ -19,7 +19,7 @@ This analysis project formulates an *actionable* framework through three main pi
 
 ## 🛠️ Methodology & Data
 <p className="text-sm text-muted-foreground mb-6 italic">
-  Dataset: <a href="[https://www.kaggle.com/datasets/carrie1/ecommerce-data](https://archive.ics.uci.edu/dataset/352/online+retail)" target="_blank" rel="noopener noreferrer" className="text-emerald-400 font-mono hover:text-emerald-300 hover:underline transition-colors duration-200">Online_Retail_UK_2011.csv</a> (~541k+ rows)
+  Dataset: <a href="https://archive.ics.uci.edu/dataset/352/online+retail" target="_blank" rel="noopener noreferrer" className="text-emerald-400 font-mono hover:text-emerald-300 hover:underline transition-colors duration-200">Online_Retail_UK_2011.csv</a> (~541k+ rows)
 </p>
 
 1. **Data Sanity Check:** Cleaning transaction anomalies (returns & *guest checkouts*) to obtain unbiased fundamental data.
